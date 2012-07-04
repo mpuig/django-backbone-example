@@ -9,7 +9,7 @@ Running locally
 
 Preferably in a virtualenv, run the following commands:
 
-    git clone https://joshbohde@github.com/joshbohde/django-backbone-example.git
+    git clone git://github.com/gchiam/django-backbone-example.git
     cd django-backbone-example/backbone_example
     pip install -r requirements.txt
     ./manage.py syncdb --noinput
